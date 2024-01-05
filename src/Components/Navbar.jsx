@@ -2,6 +2,17 @@ import React from 'react'
 
 export const Navbar = () => {
   return (
-    <div>Navbar</div>
+    <header>
+        <h3>Logo</h3>
+        <nav>
+            <a href="/#">Home</a>
+            <a href="/#">My work</a>
+            <a href="/#">Blog</a>
+            <a href="/#">About me</a> 
+        </nav>
+        <button>
+            
+        </button>
+    </header>
   )
 }
