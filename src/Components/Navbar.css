@@ -24,4 +24,15 @@ header{
     color: var(--textColor);
 }
 
+nav a{
+    margin: 0  2rem;
+    color: var(--textColor);
+    text-decoration: none;
+}
+
+nav a:hover{
+    color: var(--secondaryColor);
+}
+
+
 
